@@ -3,5 +3,3 @@ http://openshift.github.io/documentation/oo_cartridge_guide.html#php
 
 For information about .openshift directory, consult the documentation:
 http://openshift.github.io/documentation/oo_user_guide.html#the-openshift-directory
-
-Use this as a quickstart repository on openshift

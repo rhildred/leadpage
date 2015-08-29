@@ -1,0 +1,17 @@
+{
+    "name": "rhildred/leadpage",
+    "description": "a landing page for openshift with slim and composer",
+    "type": "project",
+    "require": {
+        "slim/slim": "2.x",
+        "php-curl-class/php-curl-class":"*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rich Hildred",
+            "email": "rhildred@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
